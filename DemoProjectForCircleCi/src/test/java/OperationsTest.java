@@ -10,7 +10,7 @@ public class OperationsTest {
         assertEquals(Operations.add(-3,5),2);
         assertEquals(Operations.add(-3,-5),-8);
         assertEquals(Operations.add(3,0),3);
-        assertEquals(Operations.add(0,-3),-4);
+        assertEquals(Operations.add(0,-3),-3);
     }
 
     @Test
